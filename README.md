@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saabareesh M
 - 👀 I’m interested in Frontend,web development and Data Science.
 - 🌱 I’m currently learning Backend and AI
-- 💞️ I’m looking to collaborate on Frondend and data science projects.
+- 💞️ I’m looking to collaborate on Frontend and data science projects.
 - 📫 How to reach me @saabareeshmahesh@gmail.com
 
 <!---
