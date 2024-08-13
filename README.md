@@ -52,10 +52,6 @@ Currently, I’m diving into the fascinating world of **Generative AI** and **Pr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sabareesh-mahesh-840a5b22a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saabareeshmahesh@gmail.com)
 
----
-
-### 📝 Blog/Content:
-Check out my [Blog](https://dev.to/sabareesh_mahesh_21) where I share insights on Data Science, Machine Learning, and more! 📝
 
 ---
 
